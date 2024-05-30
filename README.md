@@ -7,3 +7,5 @@ and create a table "card_activation"
 Import database from our given .sql file
 
 and dont forgot to create a image folder in your directory "upload_images"
+
+## Blacksnow Martin 2024
