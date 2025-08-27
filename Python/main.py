@@ -12,3 +12,6 @@ db.delete_student(1)
 student = db.get_student_by_id(1)
 if student:
     student.display_student_info()
+
+# 
+so we are trying to consider creating a database whereby even when the records are deleted they will go to an archive
